@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/earlyaccess/kopubbatang.css);
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+.nav, .navbar-brand, h1, h2, h3, h4, h5, h6, h7, p, a{
+   font-family: 'Jeju Gothic', sans-serif;
+}
+
+body{
+   font-family: 'Jeju Gothic', sans-serif;
+}
